@@ -1,0 +1,9 @@
+http://127.0.0.1:8011/predict
+input :
+{
+  "size_sqft":400
+}
+output:
+{
+  "predicted_price": 80000.00000000004
+}
